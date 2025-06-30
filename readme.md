@@ -3,9 +3,15 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Chetan Nandurkar</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Machine Learning Enthusiast | Data Analytics Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Analytics+Explorer" alt="Typing SVG" />
+</p>
 
 ---
+
+<!-- Animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
 
 ### 🚧 Currently Working On:
 - 📚 Learning **DSA in Java**, **ReactJS**, and sharpening my **programming fundamentals**
@@ -53,8 +59,7 @@
 ---
 
 ### 🔗 Projects & Portfolio
-📌 Explore my work: [**GitHub Portfolio**](https://github.com/chettannandurkar29)
-
+📌 Explore my work: [**GitHub Portfolio**](https://github.com/chettannandurkar29)  
 📧 Reach me at: **chetannandurkar71@gmail.com**
 
 ---
@@ -63,3 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chettannandurkar29&show_icons=true&theme=radical" alt="Chetan's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chettannandurkar29&theme=radical" alt="Chetan's Streak"/>
 </div>
+
+<!-- Optional gradient wave at bottom -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
