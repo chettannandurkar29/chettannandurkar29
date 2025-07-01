@@ -64,9 +64,15 @@
 
 ---
 
+### 📊 GitHub Stats & Contributions
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chettannandurkar29&show_icons=true&theme=radical" alt="Chetan's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chettannandurkar29&theme=radical" alt="Chetan's Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chettannandurkar29&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=chettannandurkar29&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chettannandurkar29&layout=compact&theme=radical" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chettannandurkar29&theme=radical" alt="Trophies"/>
 </div>
 
 <!-- Optional gradient wave at bottom -->
